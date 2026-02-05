@@ -8,7 +8,7 @@ Welcome to my Personal Profile. This repository hosts my personal profile page.
 
 ## 📖 About This Project
 
-This profile contains my bio, contact detais, and completed projects
+This profile contains my bio, contact details, and completed projects
 
 ## 🛠️ Technologies & Tools
 
@@ -31,20 +31,10 @@ To run this portfolio locally on your machine:
 3.  **Open the site:**
     - Simply open `index.html` in your preferred browser.
 
-Or
+                    Or
 
 **Open Page with URL**
 
 - Go to [https://glamnart.github.io/profile/](https://glamnart.github.io/profile/)
-
-## 🔮 What's Next?
-
-Heading into **Module Two**, I plan to:
-
-- Deepen my expertise in programming logic.
-- Explore new languages and frameworks.
-- Continue refining my collaboration workflows.
-
----
 
 _Created by [Glamnart](https://github.com/glamnart)_
